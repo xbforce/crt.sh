@@ -14,4 +14,5 @@ Make a list of all domains that you want to get their subdomains, then call the 
 $ ./crt.sh domains.txt
 ```
 
+
 <img src="https://github.com/xbforce/crt.sh/blob/main/usage_crt.png" />
