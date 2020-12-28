@@ -5,7 +5,7 @@
 # crt.sh
 Gather subdomains from https://crt.sh
 
-Make a list of all domains that you want to get their subdomains, then call the flie to crt.sh tool.
+Make a list of all domains that you want to get their subdomains, then call the file to crt.sh tool.
 
 #### Usage:
 
